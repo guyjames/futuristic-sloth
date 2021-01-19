@@ -6,9 +6,8 @@ sections:
   - type: section_hero
     section_id: hero
     title: Rural CoLiving
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: |
+      Ven a vivir en un entorno rural!
     image: /images/DSC08097_v1.jpeg
     image_alt: Vivir en la naturaleza
     actions:
