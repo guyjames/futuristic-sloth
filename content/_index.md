@@ -9,7 +9,7 @@ sections:
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 
-    image: images/hero.png
+    image: /images/DSC08097_v1.jpeg
     image_alt: Vivir en la naturaleza
     actions:
       - type: action
