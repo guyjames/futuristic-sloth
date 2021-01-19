@@ -8,7 +8,7 @@ sections:
     title: Rural CoLiving
     content: |
       Ven a vivir en un entorno rural!
-    image: /images/DSC08097_v1.jpeg
+    image: /images/banner.jpg
     image_alt: Vivir en la naturaleza
     actions:
       - type: action
