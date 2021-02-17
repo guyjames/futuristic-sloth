@@ -1,6 +1,6 @@
 ---
 title: PANDORAHUB - Living the good life in rural areas
-meta_title: CoLiving Rutal
+meta_title: CoLiving Rural
 meta_description: The preview of the Azimuth theme
 sections:
   - type: section_hero
