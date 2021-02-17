@@ -42,7 +42,7 @@ sections:
           que **colaborar o convivir**, gobernadas por Ayuntamientos locales
           dinámicos y abiertos que valoran y **buscan la presencia de personas**
           como tú.
-        image: images/feature1.png
+        image: /images/thoughtful-apple.jpg
         image_alt: App preview on a phone and tablet
         actions:
           - type: action
