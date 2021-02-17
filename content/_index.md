@@ -43,7 +43,7 @@ sections:
           dinámicos y abiertos que valoran y **buscan la presencia de personas**
           como tú.
         image: /images/thoughtful-apple.jpg
-        image_alt: App preview on a phone and tablet
+        image_alt: Solanell
         actions:
           - type: action
             label: Learn More
