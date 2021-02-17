@@ -1,5 +1,5 @@
 ---
-title: Home
+title: PANDORAHUB - Living the good life in rural areas
 meta_title: Stackbit Azimuth Theme
 meta_description: The preview of the Azimuth theme
 sections:
