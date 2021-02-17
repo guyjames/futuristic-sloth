@@ -5,7 +5,7 @@ meta_description: The preview of the Azimuth theme
 sections:
   - type: section_hero
     section_id: hero
-    title: Rural CoLiving
+    title: PANDORAHUB - Living the good life in rural areas — New Coliving Rural
     content: |
       Ven a vivir en un entorno rural!
     image: /images/banner.jpg
