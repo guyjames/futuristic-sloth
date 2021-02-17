@@ -53,8 +53,8 @@ sections:
             icon: arrow-right
             icon_position: right
         title: >-
-          Descubre y vive en **pueblos y comunidades rurales** con **espacios de
-          coliving y coworking rural e incubadoras rurales**
+          Descubre y vive en pueblos y comunidades rurales con espacios de
+          coliving y coworking rural e incubadoras rurales
       - type: feature_item
         title: Awesome Feature of Your Services
         content: >-
