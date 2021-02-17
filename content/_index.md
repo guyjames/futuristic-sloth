@@ -43,7 +43,7 @@ sections:
           dinámicos y abiertos que valoran y **buscan la presencia de personas**
           como tú.
         image: /images/thoughtful-apple.jpg
-        image_alt: Solanell
+        image_alt: 'Solanell, pueblo abandonado'
         actions:
           - type: action
             label: Learn More
