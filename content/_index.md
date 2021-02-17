@@ -33,10 +33,6 @@ sections:
     background: gray
     features:
       - type: feature_item
-        title: >-
-          Llegó el momento de poner a tu disposición nuestra propia experiencia
-          y la de **nuestra red de proyectos colaborador@s rurales** y **rural
-          shakers** para acompañarte en este momento de** ruralización global**.
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
