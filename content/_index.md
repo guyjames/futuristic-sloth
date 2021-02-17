@@ -20,7 +20,7 @@ sections:
     image_alt: Vivir en la naturaleza
     actions:
       - type: action
-        label: Learn More
+        label: Saber Más
         url: /features
         style: primary
   - type: section_features
