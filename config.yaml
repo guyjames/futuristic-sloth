@@ -6,7 +6,7 @@ params:
   header:
     type: header
     logo_img: /images/Logo+Pandorahub+horizontal+(1).png
-    logo_img_alt: Logo
+    logo_img_alt: PANDORAHUB - Living the good life in rural areas
     has_nav: true
     nav_links:
       - type: action
