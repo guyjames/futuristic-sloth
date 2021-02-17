@@ -24,7 +24,7 @@ sections:
         url: /features
         style: primary
   - type: section_features
-    section_id: Experiencia
+    section_id: experiencia
     title: Nuestra Experiencia
     subtitle: >-
       En Pandorahub llevamos 6 años conectado personas profesionales y
