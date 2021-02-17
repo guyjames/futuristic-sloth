@@ -23,7 +23,7 @@ sections:
         label: Saber Más
         url: /features
         style: primary
-        has_icon: true
+        has_icon: false
   - type: section_features
     section_id: experiencia
     title: Nuestra Experiencia
