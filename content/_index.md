@@ -25,7 +25,7 @@ sections:
         style: primary
   - type: section_features
     section_id: features
-    title: Features
+    title: Nuestra Experiencia
     subtitle: >-
       En Pandorahub llevamos 6 años conectado personas profesionales y
       emprendedoras con comunidades rurales abiertas y afines.
