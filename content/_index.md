@@ -37,10 +37,11 @@ sections:
     background: gray
     features:
       - type: feature_item
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          #### Encontrarás a otras personas inquietas y emprendedoras con las
+          que **colaborar o convivir**, gobernadas por Ayuntamientos locales
+          dinámicos y abiertos que valoran y **buscan la presencia de personas**
+          como tú.
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         actions:
