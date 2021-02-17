@@ -16,7 +16,7 @@ sections:
 
       ### Llegó el momento de cambiarlo todo, re-conectar con la naturaleza, con
       nuestra esencia, con nuestras raíces, con nosotr@s mism@s.&#xA;
-    image: /images/banner.jpg
+    image: /images/Arroyo+Molinos+Rural+is+the+new+black.jpg
     image_alt: Vivir en la naturaleza
     actions:
       - type: action
