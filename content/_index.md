@@ -27,7 +27,7 @@ sections:
     section_id: features
     title: Features
     subtitle: >-
-      En **Pandorahub llevamos 6 años conectado** personas profesionales y
+      En Pandorahub llevamos 6 años conectado personas profesionales y
       emprendedoras con comunidades rurales abiertas y afines.
     background: gray
     features:
