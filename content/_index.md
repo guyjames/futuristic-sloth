@@ -6,8 +6,16 @@ sections:
   - type: section_hero
     section_id: hero
     title: PANDORAHUB - Living the good life in rural areas — New Coliving Rural
-    content: |
-      Ven a vivir en un entorno rural!
+    content: >
+      ## Cada vez somos más sintiendo la **llamada rural**.
+
+
+      ### Queriendo dejar atrás nuestras **incoherencias**.&#xA;Cambiar lo que
+      hacemos, cómo lo hacemos y para quién lo hacemos.
+
+
+      ### Llegó el momento de cambiarlo todo, re-conectar con la naturaleza, con
+      nuestra esencia, con nuestras raíces, con nosotr@s mism@s.&#xA;
     image: /images/banner.jpg
     image_alt: Vivir en la naturaleza
     actions:
