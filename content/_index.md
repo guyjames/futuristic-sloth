@@ -1,37 +1,49 @@
 ---
-title: Home
-meta_title: Stackbit Azimuth Theme
-meta_description: The preview of the Azimuth theme
+title: PANDORAHUB - Living the good life in rural areas
+meta_title: CoLiving Rural
+meta_description: >-
+  Descubre y vive en pueblos y comunidades rurales con espacios de coliving y
+  coworking rural e incubadoras rurales
 sections:
   - type: section_hero
     section_id: hero
-    title: This Is A Big Hero Headline
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
-    image: images/hero.png
-    image_alt: App preview
+    title: Coliving Rural
+    content: >
+      ## ¡Siente la **llamada rural!**
+
+
+      ### Deja atrás las **incoherencias**.
+
+
+      ### Cambia lo que haces, cómo lo haces y para quién lo haces.
+
+
+      ### Re-conecta con la naturaleza, con nuestra esencia, con nuestras
+      raíces, con nosotr@s mism@s.&#xA;
+    image: /images/Arroyo+Molinos+Rural+is+the+new+black.jpg
+    image_alt: Vivir en la naturaleza
     actions:
       - type: action
-        label: Learn More
+        label: Saber Más
         url: /features
         style: primary
+        has_icon: false
   - type: section_features
-    section_id: features
-    title: Features
+    section_id: experiencia
+    title: Nuestra Experiencia
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      En Pandorahub llevamos 6 años conectado personas profesionales y
+      emprendedoras con comunidades rurales abiertas y afines.
     background: gray
     features:
       - type: feature_item
-        title: The Best Feature of Your Services
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
-        image_alt: App preview on a phone and tablet
+        content: >
+          #### Encontrarás a otras personas inquietas y emprendedoras con las
+          que **colaborar o convivir**, gobernadas por Ayuntamientos locales
+          dinámicos y abiertos que valoran y **buscan la presencia de personas**
+          como tú.
+        image: /images/thoughtful-apple.jpg
+        image_alt: 'Solanell, pueblo abandonado'
         actions:
           - type: action
             label: Learn More
@@ -40,12 +52,29 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+        title: >-
+          Descubre y vive en pueblos y comunidades rurales con espacios de
+          coliving y coworking rural e incubadoras rurales
       - type: feature_item
-        title: Awesome Feature of Your Services
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        title: >-
+          Prueba el coliving rural: tu puerta de entrada a una vida más rural,
+          conectada y colectiva.
+        content: >
+          ## Tú decides por dónde empezar
+
+
+          *   Prueba espacios de **coliving rural, vive experiencias de coliving
+          rural en grupo.**
+
+
+          *   **Fórmate en habilidades y conocimientos** que te prepararan para
+          una **vida más rural y colectiva en armonía contigo.**
+
+
+          *   Nosotros te acompañamos en todo el proceso y te damos acceso
+          prioritario y con **ventajas tangibles e intangibles**, a un
+          **universo de proyectos, espacios, servicios y personas dedicad@s a tu
+          ruralización**.
         image: images/feature2.png
         image_alt: App users welcoming a new member
         actions:
@@ -57,11 +86,10 @@ sections:
             icon: arrow-right
             icon_position: right
       - type: feature_item
-        title: Cool Feature of Your Services
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        title: ¿Cómo funciona?
+        content: >
+          **ESCUCHAMOS TU CASO, TE PROPONEMOS y te acompañamos en tu RECORRIDO
+          PERSONALIZADO HACIA UNA VIDA MÁS RURAL Y COLECTIVA**
         image: images/feature3.png
         image_alt: App user profile preview
         actions:
@@ -74,18 +102,26 @@ sections:
             icon_position: right
   - type: section_reviews
     section_id: reviews
-    title: Testimonials
+    title: Lo que dicen
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+      "Cuando descubrí el coliving rural, algo resonó dentro de mi y despertó mi
+      curiosidad por probar."
     background: white
     reviews:
       - type: review_item
-        author: John Doe
+        author: 'MIREIA RIVERO - Mobile Marketing Social Point  '
         avatar: images/review1.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          La idea de pasar tiempo en un pueblo en plena naturaleza, entrar en
+          contacto con la comunidad local y conocer a gente estimulante fue una
+          clara motivación para ir. Los días en el pueblo fueron una combinación
+          de naturaleza salvaje compartida con un grupo de personas de mente
+          abierta y ganas de explorar formas para despertar sus trayectorias y
+          proyectos personales. Estar en plena montaña disfrutando de la belleza
+          del lugar, la compañía y conversaciones estimulantes de personas de
+          todo corazón durante las comidas, los paseos en el bosque, bajo las
+          estrellas... A cualquiera que también le resuene todo esto, le invito
+          a que lo pruebe.
       - type: review_item
         author: Jane Roe
         avatar: images/review2.jpg
