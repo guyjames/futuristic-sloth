@@ -86,7 +86,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - type: feature_item
-        title: '¿Cómo funciona? '
+        title: ¿Cómo funciona?
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
