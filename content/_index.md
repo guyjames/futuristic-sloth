@@ -1,7 +1,9 @@
 ---
 title: PANDORAHUB - Living the good life in rural areas
 meta_title: CoLiving Rural
-meta_description: The preview of the Azimuth theme
+meta_description: >-
+  Descubre y vive en pueblos y comunidades rurales con espacios de coliving y
+  coworking rural e incubadoras rurales
 sections:
   - type: section_hero
     section_id: hero
