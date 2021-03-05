@@ -7,15 +7,15 @@ sections:
     section_id: hero
     title: Coliving Rural
     content: >
-      ## Cada vez somos más sintiendo la **llamada rural**.
+      ## ¡Siente la **llamada rural!**
 
 
-      ### Queriendo dejar atrás nuestras **incoherencias**.&#xA;Cambiar lo que
-      hacemos, cómo lo hacemos y para quién lo hacemos.
+      ### Deja atrás las **incoherencias**.&#xA;Cambia lo que haces, cómo lo
+      haces y para quién lo haces.
 
 
-      ### Llegó el momento de cambiarlo todo, re-conectar con la naturaleza, con
-      nuestra esencia, con nuestras raíces, con nosotr@s mism@s.&#xA;
+      ### Re-conecta con la naturaleza, con nuestra esencia, con nuestras
+      raíces, con nosotr@s mism@s.&#xA;
     image: /images/Arroyo+Molinos+Rural+is+the+new+black.jpg
     image_alt: Vivir en la naturaleza
     actions:
