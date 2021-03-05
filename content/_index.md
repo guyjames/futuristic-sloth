@@ -30,10 +30,6 @@ sections:
     subtitle: >-
       En Pandorahub llevamos 6 años conectado personas profesionales y
       emprendedoras con comunidades rurales abiertas y afines.
-          Llegó
-       el momento de poner a tu disposición nuestra propia experiencia y la de
-       **nuestra red de proyectos colaborador@s rurales** y **rural shakers** 
-      para acompañarte en este momento de** ruralización global**.
     background: gray
     features:
       - type: feature_item
