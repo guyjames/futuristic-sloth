@@ -110,7 +110,7 @@ sections:
     background: white
     reviews:
       - type: review_item
-        author: John Doe
+        author: 'mIREIA RIVERO  Mobile Marketing Social Point  '
         avatar: images/review1.jpg
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
