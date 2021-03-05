@@ -34,7 +34,7 @@ sections:
        el momento de poner a tu disposición nuestra propia experiencia y la de
        **nuestra red de proyectos colaborador@s rurales** y **rural shakers** 
       para acompañarte en este momento de** ruralización global**.
-    background: gray
+    background: white
     features:
       - type: feature_item
         content: >
