@@ -113,8 +113,16 @@ sections:
         author: 'MIREIA RIVERO - Mobile Marketing Social Point  '
         avatar: images/review1.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          La idea de pasar tiempo en un pueblo en plena naturaleza, entrar en
+          contacto con la comunidad local y conocer a gente estimulante fue una
+          clara motivación para ir. Los días en el pueblo fueron una combinación
+          de naturaleza salvaje compartida con un grupo de personas de mente
+          abierta y ganas de explorar formas para despertar sus trayectorias y
+          proyectos personales. Estar en plena montaña disfrutando de la belleza
+          del lugar, la compañía y conversaciones estimulantes de personas de
+          todo corazón durante las comidas, los paseos en el bosque, bajo las
+          estrellas... A cualquiera que también le resuene todo esto, le invito
+          a que lo pruebe.
       - type: review_item
         author: Jane Roe
         avatar: images/review2.jpg
