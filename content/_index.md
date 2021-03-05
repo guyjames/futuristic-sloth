@@ -12,8 +12,10 @@ sections:
       ## ¡Siente la **llamada rural!**
 
 
-      ### Deja atrás las **incoherencias**.&#xA;Cambia lo que haces, cómo lo
-      haces y para quién lo haces.
+      ### Deja atrás las **incoherencias**.
+
+
+      ### Cambia lo que haces, cómo lo haces y para quién lo haces.
 
 
       ### Re-conecta con la naturaleza, con nuestra esencia, con nuestras
