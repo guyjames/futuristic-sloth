@@ -105,8 +105,8 @@ sections:
     section_id: reviews
     title: Lo que dicen
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+      "Cuando descubrí el coliving rural, algo resonó dentro de mi y despertó mi
+      curiosidad por probar."
     background: white
     reviews:
       - type: review_item
