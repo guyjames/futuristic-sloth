@@ -56,7 +56,9 @@ sections:
           Descubre y vive en pueblos y comunidades rurales con espacios de
           coliving y coworking rural e incubadoras rurales
       - type: feature_item
-        title: Awesome Feature of Your Services
+        title: >-
+          Prueba el coliving rural: tu puerta de entrada a una vida más rural,
+          conectada y colectiva.
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
