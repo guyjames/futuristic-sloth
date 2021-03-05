@@ -103,7 +103,7 @@ sections:
             icon_position: right
   - type: section_reviews
     section_id: reviews
-    title: Testimonials
+    title: Lo que dicen
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales. 
