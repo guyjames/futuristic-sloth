@@ -110,7 +110,7 @@ sections:
     background: white
     reviews:
       - type: review_item
-        author: 'mIREIA RIVERO - Mobile Marketing Social Point  '
+        author: 'MIREIA RIVERO - Mobile Marketing Social Point  '
         avatar: images/review1.jpg
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
